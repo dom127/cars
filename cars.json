@@ -1,35 +1,35 @@
 [
     {
-      brand: "Honda",
-      model: "Accord VII",
-      years: "2003 - 2009",
-      carImage:
+      "brand": "Honda",
+      "model": "Accord VII",
+      "years": "2003 - 2009",
+      "carImage":
         "https://i.wpimg.pl/730x0/m.autokult.pl/honda-accord-type-s-3-b3ccf36e80.jpg",
-      bestEngine: "2.0 B 155KM",
-      gears: 5,
-      url:
+      "bestEngine": "2.0 B 155KM",
+      "gears": 5,
+      "url":
         "https://www.otomoto.pl/oferta/honda-accord-honda-accord-2-0-b-g-sport-salon-polska-xenon-ID6D8kY5.html"
     },
     {
-      brand: "Audi",
-      model: "A4 B7",
-      years: "2003 - 2008",
-      carImage:
+      "brand": "Audi",
+      "model": "A4 B7",
+      "years": "2003 - 2008",
+      "carImage":
         "https://i.iplsc.com/audi-a4-avant/0007QJH53DJNNDWH-C116-F4.jpg",
-      bestEngine: "1.8 B 150/163KM",
-      gears: "5 / 6",
-      url:
+      "bestEngine": "1.8 B 150/163KM",
+      "gears": "5 / 6",
+      "url":
         "https://www.otomoto.pl/oferta/audi-a4-1-8t-163km-quattro-sline-xenon-idealny-lakier-tempomat-ID6D8Dhj.html"
     },
     {
-      brand: "Mazda",
-      model: "6 II",
-      years: "2007 - 2012",
-      carImage:
+      "brand": "Mazda",
+      "model": "6 II",
+      "years": "2007 - 2012",
+      "carImage":
         "https://i.wpimg.pl/730x0/m.autokult.pl/mazda-6-4-212456-ad2eabf05b541c7.jpg",
-      bestEngine: "2.0 B 147KM",
-      gears: 6,
-      url:
+      "bestEngine": "2.0 B 147KM",
+      "gears": 6,
+      "url":
         "https://www.otomoto.pl/oferta/mazda-6-2-0-full-opcja-duza-navi-klimatronik-kamera-cof-ID6CNsux.html"
     }
   ]
